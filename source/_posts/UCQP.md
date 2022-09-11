@@ -4,7 +4,7 @@ date: 2022-09-11 14:23:55
 tags: fic
 ---
 
-> ### i.
+### i.
 
 The glowing ember, flicked from its body by a painted, pointed nail, glides down gracefully towards the cold concrete, landing amongst heeled boots and smart, brown leathers. The murmur of bass subdues the near chatter; strained ears fight for sound, blurred eyes lock to slurred lips. The butt is raised to those lips, and the cheeks draw in with breath as a fresh ember burns anew.
 
@@ -20,7 +20,7 @@ Then he hears something. A soft giggling that creeps out of a dark corner. Caugh
 
 He circles back to the doors; sits on a brick wall. He swipes through five people on his phone before he’s out of potential matches, again; he switches apps to admire the established men who could be like a father to him; on another he pulls to refresh a list of those in his area, they’re all within three-hundred meters, they’re all inside. He checks his list of messages and finds they’re swamped, as always, with old men unable to accept his silence, the pictures of their dicks unappetising bait. He stares at the unanswered messages he once sent someone who looks vaguely like his age, the “18” on both of their profiles an uncheckable, common lie. They’re both searching for the same thing, but neither want the other.
 
-> ### ii.
+### ii.
 
 A sudden drop in air pressure signals the night is over: the music has stopped and the silence of the small hours deafens in its own way. The doors open to spit out the vast array of loud characters once held within; a Queer vomitorium of colour.
 
@@ -50,7 +50,7 @@ The friends depart, the pair meet. They smile and go off together, making idle c
 
 Aidan checks the winning profile, examining the prized characteristics. He edits an adjective on his profile. He tries again. And again. And again and again and again.
 
-> ### iii.
+### iii.
 
 There’s a green tree hanging from the rear-view mirror. The advertised scent of pine is clearly past its sell-by date: the musky smell of damp radiates off the footwell mats all too strongly. The dim yellow light illuminates only the center stereo; though it isn’t actually there, Aidan notices. There’s a gap where one should be.
 
@@ -94,13 +94,13 @@ This is what he wants.
 
 He bows and commits to the oath.
 
-> ### iv.
+### iv.
 
 Eyes closed. Mouth open. Clothes off. A moaning perfomance by someone he doesn’t know. He’s watching it all happen. The pain isn’t felt by him. The discomfort is outsourced to another. His disgust is cut short to save himself, or to save the embarrassment of the man. Or perhaps both.
 
 He fades.
 
-> ### v.
+### v.
 
 Get off me!
 
@@ -126,7 +126,7 @@ He vomits.
 
 He's left alone.
 
-> ### vi.
+### vi.
 
 Naked, he sits out on the grass. Clothes had been thrown at him now lay in his bare lap. Tire marks betray the fast retreat of the man with the car.
 
