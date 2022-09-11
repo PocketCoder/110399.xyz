@@ -103,3 +103,13 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Theme Config
+copyright:
+  start_year: 2020
+  end_year:
+
+social_links:
+  github: https://www.github.com/PocketCoder
+  twitter: https://www.twitter.com/lactaselacking
+  NAME: pen-nib
