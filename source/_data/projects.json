@@ -5,15 +5,15 @@
        "desc":"Your history on TfL, visualised."
     },
     {
-       "name":"BROOG",
-       "url":"https://github.com/PocketCoder/broog",
-       "desc":"British Rail Operators & Owners Graph."
-    },
-    {
       "name":"Moneyflow [WIP]",
       "url":"https://github.com/PocketCoder/moneyflow",
       "desc":"A web app for tracking finances."
    },
+    {
+       "name":"BROOG",
+       "url":"https://github.com/PocketCoder/broog",
+       "desc":"British Rail Operators & Owners Graph."
+    },
     {
        "name":"RebeccaBot",
        "url":"https://github.com/PocketCoder/RebeccaBot",
