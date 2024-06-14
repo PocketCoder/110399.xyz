@@ -1,9 +1,14 @@
 [
     {
        "name":"Tubular",
-       "url":"https://🚇🚇🚇.ml",
+       "url":"https://github.com/PocketCoder/tubular",
        "desc":"Your history on TfL, visualised."
     },
+    {
+      "name":"Moneyflow [WIP]",
+      "url":"https://github.com/PocketCoder/moneyflow",
+      "desc":"A web app for tracking finances."
+   },
     {
        "name":"RebeccaBot",
        "url":"https://github.com/PocketCoder/RebeccaBot",
